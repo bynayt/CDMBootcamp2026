@@ -1,1 +1,1 @@
-this template is a copy for bootcamp 2026
+This template is a copy of TinyTapeout Bootcamp 2026.
