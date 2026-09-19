@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Push the button.
+Use the DIP switch to control the 7-segment display
 
 ## How to test
 
-Test the file.
+Use the DIP switch to control the 7-segment display
 
 ## External hardware
 
-Test the file.
+7-segment display
