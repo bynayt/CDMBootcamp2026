@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-test the file
+Push the button
 
 ## How to test
 
-test the file
+Test the file
 
 ## External hardware
 
-test the file
+Test the file
