@@ -3,8 +3,8 @@ project:
   wokwi_id:     475558217451390977       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Tiny Tapeout Bootcamp"      # Project title
   author:       "Ella Jane Lapiguera"      # Your name
-  discord:      ""      # Your Discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "N/A"      # Your Discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "This TinyTapeout Bootcamp 2026"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
